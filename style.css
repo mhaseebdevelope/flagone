@@ -1,0 +1,26 @@
+.main{
+   border: 2px solid rgb(245, 244, 244);
+    display: inline-block;
+}
+.boxs{
+    width: 200px;
+    height: 400px;
+   
+    display: inline-block;
+}
+.box1{
+    background-color: yellow;
+    height: 405px;
+}
+.box2{
+
+    position: relative;
+    right: 5px;
+}
+img{
+    position: absolute;
+    top: 30%;
+    left: 20px;
+    width: 150px;
+    height: 150px;
+}
